@@ -258,13 +258,12 @@ endif
 # END - Included from /usr/local/cpanel/etc/exim/sysfilter/options/spam_rewrite
 ######## Custom Filters ##########
 ##########   F O R    ############
-########### Websouls #############
+########### Networkconfig #############
 ##################################
 ##################################
 ########### S T A R T ############
 #########    15st OCT   ##########
 #######       2014        ########
-#####         Qasim         ######
 #####   V 2 Added Logging    #####
 #####   ##################   #####
 
